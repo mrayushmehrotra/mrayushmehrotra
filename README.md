@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrayushmehrotra&label=Profile%20views&color=0e75b6&style=flat" alt="mrayushmehrotra" /> </p>
 
-- 🔭 I’m currently working on **Many Projects**
+- 🔭 I’m currently working with **Rust, JS, Python**
 
-- 🌱 I’m currently learning **Next.js,TypeScript,PostgreSql**
+- 🌱 I’m currently learning **Full Stack AI & Web 3
 
-- 👯 I’m looking to collaborate to **Open Source**
+- 👯 I’m looking to collaborate to **Open Source Projects**
 
-- 👨‍💻 Terminal Portfolio at [https://terminal-portfolio-topaz.vercel.app/](https://terminal-portfolio-topaz.vercel.app/)
-
+- 👨‍💻 Portfolio at [https://ayush-mehrotra-portfolio.vercel.app/](https://ayush-mehrotra-portfolio.vercel.app/)
+- 
 - 📝 Normal Portfolio [https://portfolio-three-gamma-15.vercel.app/](https://portfolio-three-gamma-15.vercel.app/)
 
 - 💬 Ask me about **MERN Stack,And Web Technologies**
 
 - 📫 How to reach me **ayusmehrotra007@gmail.com**
 
-- ⚡ Hobbies **I Think I Am Funny,Never Give Up Attitude,Nerd Coder**
+- ⚡ Hobbies **Box, positive, learning, and open-minded attitude**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
