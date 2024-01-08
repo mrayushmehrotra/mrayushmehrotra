@@ -11,11 +11,13 @@
 
 - 👨‍💻 Portfolio at [https://ayush-mehrotra-portfolio.vercel.app/](https://ayush-mehrotra-portfolio.vercel.app/)
 
-- 💬 Ask me about **MERN Stack,Rust, Python and Web Technologies**
+- 💬 Ask me about **MERN Stack, Rust, Python and Web Technologies**
 
 - 📫 How to reach me **ayusmehrotra007@gmail.com**
 
-- ⚡ Hobbies **Box, positive, learning, and open-minded attitude**
+- ⚡ Hobbies **Box, positive, learning, and open-minded attitude*
+- <a href="https://www.buymeacoffee.com/mrayush" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
