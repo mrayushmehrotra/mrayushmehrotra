@@ -9,8 +9,7 @@
 
 - 👯 I’m looking to collaborate to **Open Source Projects**
 
-- 👨‍💻 Portfolio at [https://ayush-mehrotra-portfolio.vercel.app/](https://ayush-mehrotra-portfolio.vercel.app/)
-
+- 👨‍💻 Portfolio at [Portfolio](https://ayush-mehrotra-portfolio.vercel.app](https://ayush-mehrotra-portfolio-two.vercel.app/))
 - 💬 Ask me about **MERN Stack, Rust, Python and Web Technologies**
 
 - 📫 How to reach me **ayusmehrotra007@gmail.com**
