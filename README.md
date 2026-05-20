@@ -82,6 +82,7 @@ Learning → System design + backend engineering
 Improving → DSA + problem solving
 Exploring → AI workflows and automation
 
+```
 Connect With Me
 <p align="left"> <a href="mailto:ayusmehrotra007@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> <a href="https://twitter.com/ayush070707" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter"/> </a> <a href="https://linkedin.com/in/ayush-mehrotra-99419724b" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> </p>
 
@@ -101,5 +102,3 @@ while(alive){
    build();
    improve();
 }
-
-```
