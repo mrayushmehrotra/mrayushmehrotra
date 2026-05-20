@@ -1,25 +1,105 @@
 <h2>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Ayush. A swe from India
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hi there, I'm Ayush — Software Engineer from India
 </h2>
 
-## 🙋‍♂️ About Me
-
-- [portfolio](https://ayush-mehrotra-portfolio-two.vercel.app/)
-- 🧑🏻‍💻 Currently building
-  - <img src='https://pmspace.ai/_next/image?url=%2Fassets%2Fimages%2Ficononly_transparent_nobuffer.png&w=48&q=75' height="42" width="30">
-- 📫 How to reach me: [email](mailto:ayusmehrotra007@gmail.com)
-- <img src="https://komarev.com/ghpvc/?username=mrayushmehrotra">
-
-## 🤙🏼 Connect with me:
-
- <p align="left">
-<a href="https://twitter.com/ayush070707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush070707" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-mehrotra-99419724b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-mehrotra-99419724b" height="30" width="40" /></a>
+<p>
+Building software, AI workflows, and systems while pursuing Mathematics.
+Focused on full-stack engineering, backend architecture, DSA, Linux, and creating products people actually use.
 </p>
 
-## 📊 My Github Stats
+---
 
-<div style="display:inline-block;">
-  <img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrayushmehrotra&show_icons=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117&hide_title=true&disable_animations=true&number_format=long&show=reviews&include_all_commits=true&hide=contribs,issues" />
-  <img alt="Ahmet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrayushmehrotra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</div>
+## About Me
+
+- 🎓 B.Sc Mathematics (2024–2027)
+- 🧠 Interested in:
+  - Full-Stack Engineering
+  - AI + LLM Applications
+  - Backend Systems
+  - SaaS Products
+  - Performance Marketing
+- ⚙️ Currently building:
+  - AI tools & workflows
+  - Full-stack applications
+  - Developer products
+- 🌙 Night owl developer
+- 🐧 Arch Linux user
+- 📈 Solved 200+ DSA problems
+- 🎯 Goal:
+  - Remote software engineering roles
+  - Build profitable software products
+
+---
+
+## Portfolio
+
+<a href="https://ayush-mehrotra-portfolio-two.vercel.app/" target="_blank">
+  Portfolio Website
+</a>
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### Tools & Dev Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,vscode" />
+</p>
+
+---
+
+## Current Focus
+
+```txt
+Building → Software products
+Learning → System design + backend engineering
+Improving → DSA + problem solving
+Exploring → AI workflows and automation
+
+Connect With Me
+<p align="left"> <a href="mailto:ayusmehrotra007@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> <a href="https://twitter.com/ayush070707" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter"/> </a> <a href="https://linkedin.com/in/ayush-mehrotra-99419724b" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> </p>
+
+GitHub Analytics
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrayushmehrotra&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrayushmehrotra&layout=compact&theme=github_dark&hide_border=true" />
+
+</p>
+Visitor Count
+<p> <img src="https://komarev.com/ghpvc/?username=mrayushmehrotra&label=Profile+Views"/> </p>
+
+while(alive){
+   learn();
+   build();
+   improve();
+}
+
+```
